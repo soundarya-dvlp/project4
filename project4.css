@@ -1,0 +1,107 @@
+.scroll{
+    overflow: hidden;
+}
+.sec{
+    background-image: url(brisket-on-smoker.jpg);
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-position: center;
+}
+.sec1{
+    background-color: black;
+    
+  
+}
+.sec2{
+    background-image: url(desktop-wallpaper-high-resolution-restaurant-restaurants.jpg);
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-size: cover;
+    background-position: center;
+    
+}
+.sec3{
+    padding-top: 90px;
+    padding-bottom: 100px;
+    background-image: url(plating.png);
+    background-size: cover;
+    background-position: center;
+}
+.sec4{
+   
+    background-color: aliceblue;
+
+    background-image: url(cutting-your-own-meat.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+.op{
+    background-color: rgba(240, 248, 255, 0.534);
+
+}
+
+.inbox4{
+    padding: 180px 0px;
+}
+hr.li{
+    border-top: 2px solid black;
+   
+}
+hr.li1{
+    border-top: 2px solid black;
+}
+.sec5{
+    background-image: url(f0d7f76b-cc0d-4e91-b119-996e96efc993._CR109\,908\,2182\,2182_PT0_SX300__.jpg);
+    background-size: cover;
+    background-position: center;
+}
+hr.li2{
+    border-top: 3px solid rgb(245, 245, 245) ;
+}
+.op1{
+    background-color: rgba(0, 0, 0, 0.39);
+}
+.sec6{
+    background-image: url(depositphotos_115189312-couple-in-restaurant-eating-lunch.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.inbox5{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.sec7{
+    background-image: url(portrait-happy-family-having-picnic_107420-25172.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.op2{
+    background-color: rgba(146, 98, 10, 0.897);
+}
+.inbox7{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.sec8{
+    background-image: url(istockphoto-1498026194-612x612.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.inbox8{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.sec9{
+    background-color: rgba(31, 27, 27, 0.845);
+}
+.sec10{
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+}
+.c{
+    color: aliceblue;
+}
